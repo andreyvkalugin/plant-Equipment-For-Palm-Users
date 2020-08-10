@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:width="372dp"
+    android:height="390dp"
+    android:viewportHeight="390"
+    android:viewportWidth="100"
+    app:vc_viewportHeight="390"
+    app:vc_viewportWidth="100">
+
+
+    <group android:name="wave1">
+
+        <path
+            android:fillColor="@color/colorWhite"
+            android:pathData="@string/wave"
+            android:fillAlpha="0.7"
+            app:vc_fillColor="@color/colorWhite"
+            app:vc_pathData="@string/wave"/>
+
+    </group>
+
+    <group android:name="wave2">
+
+        <path
+            android:fillColor="@color/colorAccent"
+            android:pathData="@string/wave"
+            android:fillAlpha="0.8"
+            app:vc_fillColor="@color/colorAccent"
+            app:vc_pathData="@string/wave"/>
+
+    </group>
+
+    <group android:name="wave3">
+
+        <path
+            android:fillColor="@color/colorPrimaryDark"
+            android:pathData="@string/wave"
+            android:fillAlpha="0.3"
+            app:vc_fillColor="@color/colorPrimaryDark"
+            app:vc_pathData="@string/wave"/>
+
+    </group>
+
+
+
+</vector>

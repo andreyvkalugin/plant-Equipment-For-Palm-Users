@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Информ. помощник специалиста ЭСА</string>
+    <string name="pick_file">Pick file</string>
+    <string name="toast_pick_file_error">Unable to pick file. Check status of file manager.</string>
+    <string name="search_title">search</string>
+    <string name="message">message</string>
+    <string name="strsheme">структурная схема</string>
+    <string name="view_navigation_close">Close</string>
+    <string name="view_navigation_open">Open</string>
+    <string name="menu_item_history">History</string>
+    <string name="menu_item_todo">TODO</string>
+    <string name="menu_item_ideas">Ideas</string>
+    <string name="menu_item_birthday">Birthday</string>
+    <string name="action_settings">Настройки</string>
+    <string name="wave">M0,200c50-50,99,0,99,0c51,50,101,0,101,0c50-50,100,0,100,0c50,50,100,0,100,0c50-50,100,0,100,0c50,50,100,0,100,0v200H0V200z</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/wave">
+
+    <target
+        android:animation="@anim/wave1_anim"
+        android:name="wave1"/>
+    <target
+        android:animation="@anim/wave2_anim"
+        android:name="wave2"/>
+    <target
+        android:animation="@anim/wave3_anim"
+        android:name="wave3"/>
+
+</animated-vector>
